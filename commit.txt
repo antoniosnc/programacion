@@ -1,0 +1,17 @@
+commit c696e87fc2651824e25bc137d216de150d8f6c27
+Author: ASNC <antoniosnc@gmail.com>
+Date:   Sat Jan 20 15:42:17 2018 -0500
+
+    Version 2-agrego nuevos archivos y cambio foto
+
+commit 275d7d2e84462c208cb2dc58ad95711cb3750282
+Author: ASNC <antoniosnc@gmail.com>
+Date:   Sat Jan 20 15:39:33 2018 -0500
+
+    Version 2-agrego borde
+
+commit 2ce45680d337d414b20ccab028ffaac32fec9a5b
+Author: ASNC <antoniosnc@gmail.com>
+Date:   Sat Jan 20 15:32:14 2018 -0500
+
+    Version 1
